@@ -42,7 +42,7 @@ type App struct {
 	IconURL              string       `json:"iconURL"`
 	TintColor            string       `json:"tintColor"`
 	Size                 int          `json:"size,omitempty"`
-	Screenshots          []string     `json:"screenshots,omitempty"`
+	Screenshots          []string     `json:"screenshotURLs,omitempty"`
 	Permissions          []Permission `json:"permissions"`
 	AppPermissions       struct {
 		Entitlements []Entitlement `json:"entitlements"`
