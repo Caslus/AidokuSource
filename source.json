@@ -1,0 +1,190 @@
+{
+  "name": "Aidoku",
+  "identifier": "com.github.Aidoku",
+  "subtitle": "Free and open source manga reader for iOS and iPadOS",
+  "description": "Unofficial Aidoku source for easier updates.",
+  "website": "https://github.com/Aidoku/Aidoku/",
+  "apps": [
+    {
+      "name": "Aidoku",
+      "bundleIdentifier": "xyz.skitty.Aidoku",
+      "developerName": "Skitty",
+      "versions": [
+        {
+          "version": "v0.6.7",
+          "date": "2024-02-14T21:54:56Z",
+          "localizedDescription": "- Read position is now also saved whenever the app enters the background or is closed\r\n- Opening read chapters now starts you at the first page\r\n- Chapter sort order is now saved and filtering options were added\r\n- Fixed an issue with searching not working in some sources\r\n- Fixed tracker token expiration \u0026 MAL tracker status update issues\r\n- Other small bug fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.7/Aidoku.ipa",
+          "size": 3264880
+        },
+        {
+          "version": "v0.6.6",
+          "date": "2023-11-27T01:41:51Z",
+          "localizedDescription": "- Added ability to copy manga titles\r\n- Improved Webtoon page loading a bit\r\n- Fixed some issues with crop borders setting\r\n- Fixed some image scaling issues",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.6/Aidoku.ipa",
+          "size": 3235795
+        },
+        {
+          "version": "v0.6.5",
+          "date": "2023-09-03T22:47:52Z",
+          "localizedDescription": "- Pin sources option\r\n- Ability to save cover images\r\n- Crop page borders setting\r\n- Haptic feedback for reader slider\r\n- Mark all chapters option in manga page",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.5/Aidoku.ipa",
+          "size": 3206258
+        },
+        {
+          "version": "v0.6.4",
+          "date": "2023-07-09T20:30:43Z",
+          "localizedDescription": "- Fixed Webtoon reader crash\r\n- Fixed MAL tracker updating\r\n- Fixed library sorting after searching issues\r\n- Fixed tracker sync not triggering sometimes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.4/Aidoku.ipa",
+          "size": 3304012
+        },
+        {
+          "version": "v0.6.3",
+          "date": "2023-06-04T16:23:22Z",
+          "localizedDescription": "- Fixed MAL tracker expiration\r\n- Fixed iCloud sync object duplication\r\n- Fixed incorrect unread badge count\r\n- Fixed library reader opening bug",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.3/Aidoku.ipa",
+          "size": 3309365
+        },
+        {
+          "version": "v0.6.2",
+          "date": "2023-03-25T01:33:07Z",
+          "localizedDescription": "- Improved Webtoon reader\r\n- Added per-manga reading mode setting\r\n- Added search bar for migration view\r\n- Fixed CloudFlare bypass issues",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.2/Aidoku.ipa",
+          "size": 3268944
+        },
+        {
+          "version": "v0.6.1",
+          "date": "2023-01-06T23:15:31Z",
+          "localizedDescription": "- Library multi-select\r\n- Basic migration options\r\n- Tracker to local history sync option\r\n- Category renaming support\r\n- Crash \u0026 bug fixes\r\n- Performance improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.1/Aidoku.ipa",
+          "size": 2450403
+        },
+        {
+          "version": "v0.6",
+          "date": "2022-12-22T03:56:31Z",
+          "localizedDescription": "- Reduced webtoon reader stuttering\r\n- Zoom support for webtoon reader\r\n- Working downloads\r\n- Faster library refreshing\r\n- Smooth webtoon reader slider\r\n- Fixed CloudFlare bypass\r\n- Bug fixes\r\n",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6/Aidoku.ipa",
+          "size": 2571626
+        },
+        {
+          "version": "v0.5",
+          "date": "2022-07-25T22:08:21Z",
+          "localizedDescription": "- Tracker support (MAL and AniList)\r\n- Temporary vertical scroll fix\r\n- Faster searching\r\n- Various other improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.5/Aidoku.ipa",
+          "size": 2187660
+        },
+        {
+          "version": "v0.4.3",
+          "date": "2022-06-16T21:33:14Z",
+          "localizedDescription": "- Double page support for paged reader (beta)\r\n- Keyboard navigation\r\n- Library/category locking support\r\n- More localized languages (French, German, Vietnamese, etc.)",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.4.3/Aidoku.ipa",
+          "size": 1914498
+        },
+        {
+          "version": "v0.4.2",
+          "date": "2022-06-10T01:00:06Z",
+          "localizedDescription": "- Improved history tracking\r\n- History tab\r\n- Better library refresh options\r\n- Various improvements and bug fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.4.2/Aidoku.ipa",
+          "size": 1841850
+        },
+        {
+          "version": "v0.4.1",
+          "date": "2022-05-28T00:11:49Z",
+          "localizedDescription": "- Library categories\r\n- Incognito mode\r\n- Downloading fixes\r\n- Performance improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.4.1/Aidoku-v0.4.1-3.ipa",
+          "size": 1775495
+        },
+        {
+          "version": "v0.4 (2)",
+          "date": "2022-05-25T17:32:26Z",
+          "localizedDescription": "- Advanced logging support\r\n- Vertical reader page size fixes\r\n- Reversed downloading order\r\n- Crash fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.4-2/Aidoku.ipa",
+          "size": 1732378
+        },
+        {
+          "version": "v0.4",
+          "date": "2022-05-25T13:23:43Z",
+          "localizedDescription": "- Downloading support\r\n- External source language filtering\r\n- Multi-chapter selecting (for marking and downloading)\r\n- Manga page source labels\r\n- Crash fixes and performance improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.4/Aidoku.ipa",
+          "size": 1715569
+        },
+        {
+          "version": "v0.3.2",
+          "date": "2022-05-02T20:43:19Z",
+          "localizedDescription": "- Library sort options\r\n- Option to pin unread or updated manga in the library\r\n- Arabic, Portuguese, and Spanish localizations\r\n- CloudFlare bypass support\r\n- Crash fixes and other improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.3.2/Aidoku.ipa",
+          "size": 1607938
+        },
+        {
+          "version": "v0.3.1",
+          "date": "2022-04-26T12:47:08Z",
+          "localizedDescription": "- Crash fixes\r\n- Language support\r\n- Source web view button",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.3.1/Aidoku.ipa",
+          "size": 1565313
+        },
+        {
+          "version": "v0.3",
+          "date": "2022-04-22T01:36:26Z",
+          "localizedDescription": "- A faster, rewritten source system\r\n- New (community) sources\r\n- Deep link support\r\n- Bug fixes and improvements",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.3/Aidoku.ipa",
+          "size": 1550064
+        },
+        {
+          "version": "v0.2",
+          "date": "2022-03-29T17:24:04Z",
+          "localizedDescription": "- Configurable reading mode (including a vertical scroll reader)\r\n- Better page loading progress indicators\r\n- Working iCloud sync\r\n- Tons of bug fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.2/Aidoku.ipa",
+          "size": 1454077
+        },
+        {
+          "version": "v0.1.1",
+          "date": "2022-03-08T16:13:09Z",
+          "localizedDescription": "- Added backup support\r\n- Moved settings to tab bar\r\n- Enabled pull to refresh in library",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.1.1/Aidoku.ipa",
+          "size": 1407768
+        },
+        {
+          "version": "v0.1",
+          "date": "2022-02-25T22:58:24Z",
+          "localizedDescription": "Initial beta release",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.1/Aidoku.ipa",
+          "size": 1364187
+        }
+      ],
+      "version": "v0.6.7",
+      "versionDate": "2024-02-14T21:54:56Z",
+      "versionDescription": "- Read position is now also saved whenever the app enters the background or is closed\r\n- Opening read chapters now starts you at the first page\r\n- Chapter sort order is now saved and filtering options were added\r\n- Fixed an issue with searching not working in some sources\r\n- Fixed tracker token expiration \u0026 MAL tracker status update issues\r\n- Other small bug fixes",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.7/Aidoku.ipa",
+      "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
+      "iconURL": "https://avatars.githubusercontent.com/u/97767528",
+      "tintColor": "ff2f52",
+      "size": 3264880,
+      "permissions": [
+        {
+          "type": "background-fetch",
+          "usageDescription": "Aidoku periodically updates sources in the background."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Aidoku to run longer than 30 seconds when refreshing apps in background."
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "get-task-allow"
+          },
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.siri"
+          }
+        ]
+      }
+    }
+  ]
+}
