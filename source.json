@@ -159,6 +159,11 @@
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
       "size": 3264880,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
+        "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
+        "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot3.png"
+      ],
       "permissions": [
         {
           "type": "background-fetch",

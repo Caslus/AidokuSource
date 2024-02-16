@@ -42,8 +42,7 @@ type App struct {
 	IconURL              string       `json:"iconURL"`
 	TintColor            string       `json:"tintColor"`
 	Size                 int          `json:"size,omitempty"`
-	Screenshots          []string     `json:"screenshots,omitempty"`
-	ScreenshotURLs       []string     `json:"screenshotURLs,omitempty"`
+	Screenshots          []string     `json:"screenshotURLs,omitempty"`
 	Permissions          []Permission `json:"permissions"`
 	AppPermissions       struct {
 		Entitlements []Entitlement `json:"entitlements"`
@@ -94,6 +93,11 @@ var AidokuApp = App{
 				Name: "com.apple.developer.siri",
 			},
 		},
+	},
+	Screenshots: []string{
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot3.png",
 	},
 }
 
