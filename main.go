@@ -95,9 +95,9 @@ var AidokuApp = App{
 		},
 	},
 	Screenshots: []string{
-		"https://raw.githubusercontent.com/Caslus/AidokuSource/dev/media/screenshot1.png",
-		"https://raw.githubusercontent.com/Caslus/AidokuSource/dev/media/screenshot2.png",
-		"https://raw.githubusercontent.com/Caslus/AidokuSource/dev/media/screenshot3.png",
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
+		"https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot3.png",
 	},
 }
 
