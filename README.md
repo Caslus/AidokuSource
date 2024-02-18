@@ -1,7 +1,6 @@
 # Aidoku Source for AltStore/SideStore
 
-**Disclaimer: I am not responsible for Aidoku, AltStore or SideStore,
-I made this just to easily update the app on my phone.**
+**Disclaimer: This repository serves as a conduit for Aidoku installation via AltStore or SideStore. Please note that I am not affiliated with Aidoku, AltStore, or SideStore, and I developed this solely for the purpose of conveniently updating the app on my own device.**
 
 Links:
 
@@ -10,20 +9,18 @@ Links:
 - [SideStore](https://github.com/SideStore/SideStore)
 
 ---
-This repository contains a JSON file that can be used as a source in AltStore or SideStore to install Aidoku.
+This repository contains a JSON file that acts as a source for installing Aidoku through AltStore or SideStore.
 
-I will be updating the `source.json` when there are new releases in the Aidoku repository, so feel free to add it
-as a source in AltStore or SideStore.
+I will regularly update the `source.json` file to reflect new releases from the Aidoku repository. Therefore, you're welcome to add it as a source in AltStore or SideStore for seamless updates.
 
 ## How to add the source to AltStore/SideStore
 1. Open AltStore/SideStore
-2. Tap on the "Browse" tab
-3. Tap "Sources"
+2. Navigate to the "Browse" tab
+3. Select "Sources"
 4. Tap the "+" button on the top left
 5. Paste the following URL:
 ```
 https://raw.githubusercontent.com/Caslus/AidokuSource/main/source.json
 ```
 6. Tap "Add"
-7. Go back to the "Browse" tab and tap "Aidoku" to install the app
-
+7. Return to the "Browse" tab and tap "Aidoku" to install the app
