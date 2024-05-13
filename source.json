@@ -11,6 +11,13 @@
       "developerName": "Skitty",
       "versions": [
         {
+          "version": "v0.6.8",
+          "date": "2024-05-13T00:03:42Z",
+          "localizedDescription": "- Fixed CloudFlare bypass\r\n- New “Only Download on Wi-Fi” option\r\n- Manga links can be copied now by holding down the web view button\r\n- Various other small fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.8/Aidoku.ipa",
+          "size": 3297836
+        },
+        {
           "version": "v0.6.7",
           "date": "2024-02-14T21:54:56Z",
           "localizedDescription": "- Read position is now also saved whenever the app enters the background or is closed\r\n- Opening read chapters now starts you at the first page\r\n- Chapter sort order is now saved and filtering options were added\r\n- Fixed an issue with searching not working in some sources\r\n- Fixed tracker token expiration \u0026 MAL tracker status update issues\r\n- Other small bug fixes",
@@ -151,14 +158,14 @@
           "size": 1364187
         }
       ],
-      "version": "v0.6.7",
-      "versionDate": "2024-02-14T21:54:56Z",
-      "versionDescription": "- Read position is now also saved whenever the app enters the background or is closed\r\n- Opening read chapters now starts you at the first page\r\n- Chapter sort order is now saved and filtering options were added\r\n- Fixed an issue with searching not working in some sources\r\n- Fixed tracker token expiration \u0026 MAL tracker status update issues\r\n- Other small bug fixes",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.7/Aidoku.ipa",
+      "version": "v0.6.8",
+      "versionDate": "2024-05-13T00:03:42Z",
+      "versionDescription": "- Fixed CloudFlare bypass\r\n- New “Only Download on Wi-Fi” option\r\n- Manga links can be copied now by holding down the web view button\r\n- Various other small fixes",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.8/Aidoku.ipa",
       "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
-      "size": 3264880,
+      "size": 3297836,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
