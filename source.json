@@ -11,9 +11,16 @@
       "developerName": "Skitty",
       "versions": [
         {
+          "version": "v0.6.9",
+          "date": "2024-08-18T00:08:55Z",
+          "localizedDescription": "- Delete download after reading option\r\n- Warning when skipping chapters\r\n- Fixed history/updates date grouping",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.9/Aidoku.ipa",
+          "size": 3386857
+        },
+        {
           "version": "v0.6.8",
           "date": "2024-05-13T00:03:42Z",
-          "localizedDescription": "- Fixed CloudFlare bypass\r\n- New “Only Download on Wi-Fi” option\r\n- Manga links can be copied now by holding down the web view button\r\n- Various other small fixes",
+          "localizedDescription": "- Fixed CloudFlare bypass\r\n- New “Only Download on Wi-Fi” option\r\n- Manga links can be copied now by holding down the web view button\r\n- Various other small fixes\r\n\r\nNote: build2.ipa is for commit 54ffc02087820850d957a84f447f12ee36767389",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.8/Aidoku.ipa",
           "size": 3297836
         },
@@ -158,14 +165,14 @@
           "size": 1364187
         }
       ],
-      "version": "v0.6.8",
-      "versionDate": "2024-05-13T00:03:42Z",
-      "versionDescription": "- Fixed CloudFlare bypass\r\n- New “Only Download on Wi-Fi” option\r\n- Manga links can be copied now by holding down the web view button\r\n- Various other small fixes",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.8/Aidoku.ipa",
+      "version": "v0.6.9",
+      "versionDate": "2024-08-18T00:08:55Z",
+      "versionDescription": "- Delete download after reading option\r\n- Warning when skipping chapters\r\n- Fixed history/updates date grouping",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.9/Aidoku.ipa",
       "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
-      "size": 3297836,
+      "size": 3386857,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
