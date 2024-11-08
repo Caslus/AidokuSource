@@ -11,6 +11,13 @@
       "developerName": "Skitty",
       "versions": [
         {
+          "version": "v0.6.10",
+          "date": "2024-11-08T01:08:36Z",
+          "localizedDescription": "- Added scanlator filter option for chapters\r\n- Fixed reload button showing incorrectly on double page reader\r\n- Fixed manga not being marked as opened from updates tab\r\n- Various other small fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
+          "size": 3354421
+        },
+        {
           "version": "v0.6.9",
           "date": "2024-08-18T00:08:55Z",
           "localizedDescription": "- Delete download after reading option\r\n- Warning when skipping chapters\r\n- Fixed history/updates date grouping",
@@ -165,14 +172,14 @@
           "size": 1364187
         }
       ],
-      "version": "v0.6.9",
-      "versionDate": "2024-08-18T00:08:55Z",
-      "versionDescription": "- Delete download after reading option\r\n- Warning when skipping chapters\r\n- Fixed history/updates date grouping",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.9/Aidoku.ipa",
+      "version": "v0.6.10",
+      "versionDate": "2024-11-08T01:08:36Z",
+      "versionDescription": "- Added scanlator filter option for chapters\r\n- Fixed reload button showing incorrectly on double page reader\r\n- Fixed manga not being marked as opened from updates tab\r\n- Various other small fixes",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
       "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
-      "size": 3386857,
+      "size": 3354421,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
