@@ -11,7 +11,7 @@
       "developerName": "Skitty",
       "versions": [
         {
-          "version": "v0.6.10",
+          "version": "0.6.10",
           "date": "2024-11-08T01:08:36Z",
           "localizedDescription": "- Added scanlator filter option for chapters\r\n- Fixed reload button showing incorrectly on double page reader\r\n- Fixed manga not being marked as opened from updates tab\r\n- Various other small fixes",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
