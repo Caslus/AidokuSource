@@ -20,7 +20,7 @@ I will regularly update the `source.json` file to reflect new releases from the 
 4. Tap the "+" button on the top left
 5. Paste the following URL:
 ```
-https://raw.githubusercontent.com/Caslus/AidokuSource/main/source.json
+https://raw.githubusercontent.com/Aul16/AidokuSource/main/source.json
 ```
 6. Tap "Add"
 7. Return to the "Browse" tab and tap "Aidoku" to install the app
