@@ -11,6 +11,13 @@
       "developerName": "Skitty",
       "versions": [
         {
+          "version": "v0.6.11",
+          "date": "2025-03-27T16:45:47Z",
+          "localizedDescription": "- Improved batch migration speed\r\n- Resolved some Cloudflare captcha issues\r\n- Fixed status bar showing in the reader on iPads\r\n- Fixed unread badges not showing sometimes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.11/Aidoku.ipa",
+          "size": 3393932
+        },
+        {
           "version": "v0.6.10",
           "date": "2024-11-08T01:08:36Z",
           "localizedDescription": "- Added scanlator filter option for chapters\r\n- Fixed reload button showing incorrectly on double page reader\r\n- Fixed manga not being marked as opened from updates tab\r\n- Various other small fixes",
@@ -172,14 +179,14 @@
           "size": 1364187
         }
       ],
-      "version": "v0.6.10",
-      "versionDate": "2024-11-08T01:08:36Z",
-      "versionDescription": "- Added scanlator filter option for chapters\r\n- Fixed reload button showing incorrectly on double page reader\r\n- Fixed manga not being marked as opened from updates tab\r\n- Various other small fixes",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.10/Aidoku.ipa",
+      "version": "v0.6.11",
+      "versionDate": "2025-03-27T16:45:47Z",
+      "versionDescription": "- Improved batch migration speed\r\n- Resolved some Cloudflare captcha issues\r\n- Fixed status bar showing in the reader on iPads\r\n- Fixed unread badges not showing sometimes",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.11/Aidoku.ipa",
       "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
-      "size": 3354421,
+      "size": 3393932,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
