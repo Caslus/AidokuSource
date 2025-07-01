@@ -11,11 +11,18 @@
       "developerName": "Skitty",
       "versions": [
         {
+          "version": "v0.7",
+          "date": "2025-06-22T15:48:11Z",
+          "localizedDescription": "- Local file reading support (via cbz and zip archives)\r\n- Built-in Komga support\r\n- Many new source features (which you may not see until the future)\r\n- iOS 26 support\r\n\r\nThe latest ipa is `Aidoku.ipa`, build 0.7 (6), up to commit a90099d66ae7c36892403d20baac300fa028b48d.",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.7/Aidoku.ipa",
+          "size": 12490545
+        },
+        {
           "version": "v0.6.11",
           "date": "2025-03-27T16:45:47Z",
-          "localizedDescription": "- Improved batch migration speed\r\n- Resolved some Cloudflare captcha issues\r\n- Fixed status bar showing in the reader on iPads\r\n- Fixed unread badges not showing sometimes",
+          "localizedDescription": "- Mark duplicate chapters as read option (after build 3)\r\n- Reader view orientation lock option (after build 3)\r\n- Improved batch migration speed\r\n- Resolved some Cloudflare captcha issues\r\n- Fixed status bar showing in the reader on iPads\r\n- Fixed unread badges not showing sometimes\r\n- Shikimori tracker (after build 3)\r\n\r\nThe latest build is `Aidoku.ipa`, v0.6.11 (4).",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.11/Aidoku.ipa",
-          "size": 3393932
+          "size": 3429327
         },
         {
           "version": "v0.6.10",
@@ -179,14 +186,14 @@
           "size": 1364187
         }
       ],
-      "version": "v0.6.11",
-      "versionDate": "2025-03-27T16:45:47Z",
-      "versionDescription": "- Improved batch migration speed\r\n- Resolved some Cloudflare captcha issues\r\n- Fixed status bar showing in the reader on iPads\r\n- Fixed unread badges not showing sometimes",
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.6.11/Aidoku.ipa",
+      "version": "v0.7",
+      "versionDate": "2025-06-22T15:48:11Z",
+      "versionDescription": "- Local file reading support (via cbz and zip archives)\r\n- Built-in Komga support\r\n- Many new source features (which you may not see until the future)\r\n- iOS 26 support\r\n\r\nThe latest ipa is `Aidoku.ipa`, build 0.7 (6), up to commit a90099d66ae7c36892403d20baac300fa028b48d.",
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.7/Aidoku.ipa",
       "localizedDescription": "Free and open source manga reader for iOS and iPadOS",
       "iconURL": "https://avatars.githubusercontent.com/u/97767528",
       "tintColor": "ff2f52",
-      "size": 3393932,
+      "size": 12490545,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot1.png",
         "https://raw.githubusercontent.com/Caslus/AidokuSource/main/media/screenshot2.png",
